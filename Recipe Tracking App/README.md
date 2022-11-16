@@ -33,7 +33,7 @@ The preparation and ingredient columns should display a scrollbar if there is to
 
 Use the object-fit property to scale-down the images and set the image width and height to 100%.
 
-Success Criteria
+### Success Criteria
 
 Functionality:
 User can create a recipe entry.
